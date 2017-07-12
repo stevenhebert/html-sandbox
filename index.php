@@ -44,5 +44,26 @@
 			<li>sleep</li>
 			<li>read docs n stuff</li>
 		</ol>
+
+		<h2>E> Pikachu</h2>
+		<img src="images/pokemon.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	</body>
 </html>
