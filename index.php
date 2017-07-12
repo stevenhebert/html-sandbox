@@ -16,6 +16,7 @@
 			<tr>
 				<td>persian</td>
 				<td>beagle</td>
+			</tr>
 			<tr>
 				<td>maine coon</td>
 				<td>rottweiler</td>
