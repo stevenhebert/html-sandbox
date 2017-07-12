@@ -28,7 +28,7 @@
 		</table>
 
 		<!-- lets make a list -->
-		<h2>cardinal faves</h2>
+		<h2 class="redhead greentxt"> cardinal faves</h2>
 		<ul>
 			<li>tacos</li>
 			<li>water</li>
@@ -46,7 +46,7 @@
 		</ol>
 
 		<h2>E> Pikachu</h2>
-		<img src="images/pokemon.png" alt"why u no load img¿">
+		<img src="images/pokemon.png" alt"why u no load img¿"/>
 
 
 
