@@ -46,7 +46,7 @@
 		</ol>
 
 		<h2>E> Pikachu</h2>
-		<img src="images/pokemon.png">
+		<img src="images/pokemon.png" alt"why u no load img¿">
 
 
 
