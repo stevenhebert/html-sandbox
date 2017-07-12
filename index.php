@@ -31,18 +31,18 @@
 		<h2>cardinal faves</h2>
 		<ul>
 			<li>tacos</li>
-			<li>the beach</li>
-			<li>kittens</li>
-			<li>fast cars</li>
+			<li>water</li>
+			<li>puppies</li>
+			<li>lyfts</li>
 		</ul>
 
-		<! --now a numbered list -->
+		<!-- now a numbered list -->
 		<h2>ordianal tasks</h2>
 		<ol>
-			<li>feed kitty</li>
+			<li>feed puppy</li>
 			<li>sign in for attendence</li>
-			<li>water the plants</li>
-			<li>read textbooks</li>
+			<li>sleep</li>
+			<li>read docs n stuff</li>
 		</ol>
 	</body>
 </html>
