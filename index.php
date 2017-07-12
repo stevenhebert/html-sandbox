@@ -28,7 +28,7 @@
 		</table>
 
 		<!-- lets make a list -->
-		<h2>a few of my favorite things</h2>
+		<h2>cardinal faves</h2>
 		<ul>
 			<li>tacos</li>
 			<li>the beach</li>
