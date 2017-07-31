@@ -1,12 +1,17 @@
 <!DOCTYPE html>
 <html>
+
 	<head>
+
 		<meta charset="utf-8"/>
 		<title>HMTL Sandy</title>
+
 	</head>
+
 	<!-- want to create a table with cats and dogs -->
 	<!-- need to lay out bread before putting peanut butter and jelly together -->
 	<body>
+
 		<h1>Hello world?</h1>
 		<table>
 			<tr>
@@ -22,7 +27,7 @@
 				<td>rottweiler</td>
 			</tr>
 			<tr>
-				<td>siamese</td>
+				<td>siamese</td>2
 				<td>german shepard</td>
 			</tr>
 		</table>
@@ -48,22 +53,6 @@
 		<h2>E> Pikachu</h2>
 		<img src="images/pokemon.png" alt"why u no load img¿"/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	</body>
+
 </html>
